@@ -1,2 +1,6 @@
 # sortDownloadsManager
-A simple Python script to sort the downloaded files
+A simple Python3 script to sort more easly the files located on the Download's folder. 
+
+This script was developed to run in Linux.
+
+**To run this script is necessary move the *sortManager.py* file to the *Home* folder.** 
