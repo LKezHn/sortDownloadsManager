@@ -39,7 +39,8 @@ class SortManager:
     def orderItems(self):
         for file in self.fileList.split('\n')[:-1]:
             self.moveItem(file)
-        quit("Files have been sorted")
+        print("Files have been sorted")
+        exit(0)
 
     """
         Método encargado de mover un archivo a la carpeta correspondiente, dependiendo de la extensión del mismo
